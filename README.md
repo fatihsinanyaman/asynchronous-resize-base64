@@ -5,5 +5,4 @@ Just specify maxWidth and maxHeight parameters.
 ##### Usage
 ```
 newImage = await resizebase64(base64, maxWidth, maxHeight);
-
 ```
